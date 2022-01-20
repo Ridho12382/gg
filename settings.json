@@ -10,6 +10,8 @@
 	"ownerNumber": "6283863255710",
 	"ownerNumberr": "6283863255710",
 	"cr": "@RidhoBotz ?",
+        "autovn" : false,
+        "autoread" : true,
 	"ownername": "Ridho",
 	"botname":"RidhoBotz",
 	"thumb":"dhanithumb.jpg",
