@@ -4,7 +4,7 @@
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": false,
+	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "6283863255710",
